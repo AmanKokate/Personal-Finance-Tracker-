@@ -1,0 +1,49 @@
+date,amount,category,description
+01-01-2025,20000.0,Income,Salary
+05-01-2025,2500.0,Expense,Gym Membership
+10-01-2025,300.0,Expense,Internet Bill
+15-01-2025,5000.0,Expense,Rent
+20-01-2025,8000.0,Income,Freelancing
+25-01-2025,1200.0,Expense,Electricity Bill
+01-02-2025,22000.0,Income,Salary
+08-02-2025,900.0,Expense,Movie Night
+15-02-2025,1500.0,Expense,Groceries
+22-02-2025,4200.0,Income,Side Hustle
+28-02-2025,350.0,Expense,Subscription
+01-03-2025,25000.0,Income,Salary
+05-03-2025,1800.0,Expense,Gas Bill
+10-03-2025,700.0,Expense,Pet Supplies
+15-03-2025,9500.0,Income,Consulting
+20-03-2025,500.0,Expense,Charity
+25-03-2025,2000.0,Expense,Home Repairs
+01-04-2025,28000.0,Income,Salary
+05-04-2025,3500.0,Expense,Shopping
+10-04-2025,200.0,Expense,Transport
+15-04-2025,6200.0,Income,Side Business
+20-04-2025,750.0,Expense,Concert Tickets
+25-04-2025,900.0,Expense,Outdoor Activities
+01-05-2025,30000.0,Income,Salary
+08-05-2025,600.0,Expense,Dining Out
+15-05-2025,350.0,Expense,Streaming Subscription
+22-05-2025,1100.0,Expense,Gadgets
+30-05-2025,5600.0,Income,Freelance Writing
+01-06-2025,32000.0,Income,Salary
+06-06-2025,500.0,Expense,New Year Party
+12-06-2025,12000.0,Income,Bonus
+18-06-2025,2600.0,Expense,Holiday Gifts
+24-06-2025,7000.0,Income,Affiliate Marketing
+30-06-2025,28000.0,Income,Salary
+05-07-2025,2750.0,Expense,Vacation
+12-07-2025,480.0,Expense,Fast Food
+19-07-2025,2200.0,Expense,Clothing
+26-07-2025,25000.0,Income,Salary
+05-08-2025,3500.0,Expense,New Phone
+14-08-2025,12000.0,Income,Bonus
+21-08-2025,1800.0,Expense,Gas Bill
+29-08-2025,2000.0,Expense,Gift
+01-09-2025,25000.0,Income,Salary
+10-09-2025,500.0,Expense,Charity
+18-09-2025,950.0,Expense,Tech Accessories
+27-09-2025,350.0,Expense,Subscription
+30-09-2025,18000.0,Income,Bonus
+30-12-2025,30000.0,Income,Salary
